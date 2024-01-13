@@ -12,4 +12,4 @@ I'm a 21-year-old developer based in Vietnam, and I'm passionate about crafting 
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/baohng/).
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/baohng/).
