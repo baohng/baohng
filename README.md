@@ -4,11 +4,11 @@ I'm a 21-year-old developer based in Vietnam, and I'm passionate about crafting 
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `TypeScript` `Tailwind` `Material-UI`
+**Frontend Development:** `React` `Tailwind` `Material-UI`
 
 **Version Control:** `Git` `Github`
 
-**Backend Development:** `Express.js` `Spring Boot 3` `PostgreSQL` `Firebase`
+**Backend Development:** `Spring Boot 3` `ASP.NET Core` `PostgreSQL` `MySQL` `Firebase`
 
 ## 📫 Contact
 
