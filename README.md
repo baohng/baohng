@@ -2,9 +2,6 @@
 
 I'm a 21-year-old developer based in Vietnam, and I'm passionate about crafting digital experiences.
 
-- Check out my website to learn more about me.
-- Explore my [blog](https://arthurcodes.hashnode.dev/) where I share insights and learnings.
-
 ## 📦 Toolbox
 
 **Frontend Development:** `React` `TypeScript` `Tailwind` `Material-UI`
