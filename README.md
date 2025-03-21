@@ -1,6 +1,6 @@
-### Hey, I'm Arthur (Ho Nguyen Gia Bao) 👋🏽
+### Hey, I'm Paul (Ho Nguyen Gia Bao) 👋🏽
 
-I'm a 21-year-old developer based in Vietnam, and I'm passionate about crafting digital experiences.
+I'm a 22-year-old developer based in Vietnam, and I'm passionate about crafting digital experiences.
 
 ## 📦 Toolbox
 
